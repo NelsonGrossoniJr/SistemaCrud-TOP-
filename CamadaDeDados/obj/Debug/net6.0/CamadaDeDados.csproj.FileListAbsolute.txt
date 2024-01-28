@@ -1,0 +1,15 @@
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.csproj.AssemblyReference.cache
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.AssemblyInfoInputs.cache
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.AssemblyInfo.cs
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.csproj.CoreCompileInputs.cache
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\bin\Debug\net6.0\CamadaDeDados.deps.json
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\bin\Debug\net6.0\CamadaDeDados.dll
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\bin\Debug\net6.0\CamadaDeDados.pdb
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\bin\Debug\net6.0\CamadaDeNegocio.dll
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\bin\Debug\net6.0\CamadaDeNegocio.pdb
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.csproj.CopyComplete
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.dll
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\refint\CamadaDeDados.dll
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\CamadaDeDados.pdb
+C:\Users\nelso\source\repos\atCSharp\CamadaDeDados\obj\Debug\net6.0\ref\CamadaDeDados.dll
